@@ -134,4 +134,4 @@ lib/
 
 ---
 
-*CPAD Assignment — BiTS IIT Kharagpur*
+*CPAD Assignment — Bits Pilani - WILP
